@@ -1,0 +1,27 @@
+site_name: Saeed Sabet
+site_description: A site about me and my work.
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Skills: skills.md
+    - Projects: projects.md
+    - Research:
+        - 'My First Post': 'blog/2024-09-30-my-first-post.md'
+
+
+theme:
+    name: material
+    custom_dir: overrides
+    features:
+      - navigation.tabs
+      - navigation.indexes
+
+extra_css:
+    - stylesheets/custom.css
+
+plugins:
+    - search
+    - blog:
+        blog_dir: blog
+

@@ -1,0 +1,37 @@
+/* Center the title on the home page */
+.md-typeset h1 {
+    text-align: center;
+}
+
+/* Style profile picture */
+.md-typeset img[alt="Profile Picture"] {
+    border-radius: 50%;
+    margin-top: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Add margin to sections */
+.md-typeset h2 {
+    margin-top: 40px;
+}
+
+/* Customize overall look and feel */
+body {
+    font-family: 'Arial, sans-serif';
+    color: #302f2f;
+}
+
+
+.md-footer-meta {
+    border-top: 1px solid #525151; /* Adds a light border at the top */
+    background-color: #131111; /* Light gray background */
+    text-align: left; /* Center-align the content */
+}
+
+.md-footer-meta__inner {
+    display: flex; /* Flexbox layout */
+    justify-content: left; /* Centers the content horizontally */
+    align-items: left; /* Centers the content vertically */
+    flex-wrap: wrap; /* Allows the content to wrap on smaller screens */
+}
+
