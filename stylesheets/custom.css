@@ -1,0 +1,66 @@
+/* Profile Picture Styling */
+.md-typeset img[alt='Profile Picture'] {
+    border-radius: 50%;
+    margin-top: 20px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Footer Styling */
+.md-footer-meta {
+    border-top: 1px solid #525151;
+    background-color: #131111;
+    text-align: left;
+}
+
+.md-footer-meta__inner {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-wrap: wrap;
+}
+
+
+/* Default Theme */
+[data-md-color-scheme='default'] {
+    --md-hero-bg-color: #050735;
+    --border-color: #dcdcdc;
+    --primary-gradient: linear-gradient(to right, #4a30cc, #1a96cc, #86d9a8);
+    --header-color: #1E2129;
+}
+
+/* Slate Theme */
+[data-md-color-scheme='slate'] {
+    --md-default-fg-color: hsla(100, 100%, 100%, 0.87);
+    --md-default-bg-color: #000;
+    --md-code-bg-color: #1E2129;
+    --md-hero-bg-color: #050735;
+    --md-hero-illustration-color: #fff;
+    --border-color: #4a4b50;
+    --primary-gradient: linear-gradient(to right, #5433ff, #20bdff, #a5fecb);
+    --header-color: #1E2129;
+}
+
+/* Header Styling */
+.md-header {
+    background-color: var(--header-color);
+}
+
+
+/* Dashed Horizontal Rule */
+.hr-dashed {
+    border-bottom: 1px dashed var(--border-color);
+}
+
+
+/* Headings Styling */
+h1, h2, h3, h4 {
+    font-weight: 700 !important;
+}
+
+h1, h2 {
+    background-clip: text !important;
+    -webkit-background-clip: text !important;
+    color: transparent !important;
+    background-size: cover !important;
+    background-image: var(--primary-gradient) !important;
+}
