@@ -1,6 +1,6 @@
 # Hi, I'm Saeed Sabet 👋
 
-<img src="images/profile.jpeg" alt="Profile Picture" width="200" align="right">
+<img src="assets/profile.jpeg" alt="Profile Picture" width="200" align="right">
 
 Welcome to my personal website! I'm a Data Scintist, passionate about AI and Machine Learning.
 
