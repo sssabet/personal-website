@@ -12,8 +12,8 @@ Welcome to my personal website! I'm a Data Scintist, passionate about AI and Mac
 
 ## 🏆 Projects
 
-Check out my work on the [Projects](projects.md) page.
+Check out my work on the [Projects](projects/index.md) page.
 
-## 📝 Latest Blog Posts
+## 📝 Latest Projects
 
-- [My First Post](blog/2024-09-30-my-first-post.md)
+- [Smart Crop Soccer](projects/2024-09-30-smart-crop-soccer.md)

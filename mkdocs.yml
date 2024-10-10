@@ -11,9 +11,10 @@ nav:
     - Home: index.md
     - About: about.md
     - Skills: skills.md
-    - Projects: projects.md
-    - Research:
-        - 'My First Post': 'blog/2024-09-30-my-first-post.md'
+    - Projects:
+        - List of all projects: projects/index.md
+        - Smart Crop Soccer: projects/2024-09-30-smart-crop-soccer.md
+        - Smart Crop Ice Hockey: projects/2024-10-10-smart-crop-hockey.md
 
 
 theme:
