@@ -64,3 +64,132 @@ h1, h2 {
     background-size: cover !important;
     background-image: var(--primary-gradient) !important;
 }
+
+
+.skills-section {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding: 10px;
+}
+
+.skills-section h3 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.skill {
+    margin-bottom: 15px;
+}
+
+.skill-name {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+    font-size: 16px;
+}
+
+.skill-name i {
+    margin-right: 8px;
+    color: #4CAF50;
+}
+
+.progress-bar {
+    width: 100%;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    height: 20px;
+    position: relative;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+.progress {
+    height: 100%;
+    background: linear-gradient(90deg, #2d2b9e, #09bda5);
+    border-radius: 5px;
+    text-align: right;
+    line-height: 20px;
+    color: white;
+    padding-right: 10px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    width: 0%;
+    transition: width 1s ease;
+}
+
+.progress-bar {
+    --progress-width: 0%;
+}
+
+.progress-bar .progress {
+    animation: fillProgress 2s ease-in-out forwards;
+}
+
+@keyframes fillProgress {
+    0% { width: 0%; }
+    100% { width: var(--progress-width); }
+}
+
+
+/* Section Styles */
+.experience-section, .education-section {
+    font-family: 'Roboto', sans-serif;
+}
+
+.experience-section h3, .education-section h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.experience-section h3 i, .education-section h3 i {
+    margin-right: 10px;
+    color: #4CAF50;
+}
+
+/* Job and Education Entry Styles */
+.job, .education-item {
+    margin-bottom: 5px;
+}
+
+.job h4, .education-item h4 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.job-date {
+    font-size: 14px;
+    font-style: italic;
+    color: #777;
+    margin-left: 10px;
+}
+
+.education-item p {
+    font-size: 16px;
+    color: #777;
+}
+
+/* Description Styles */
+.job-description, .thesis-title {
+    font-size: 14px;
+    color: #555;
+    margin-top: 5px;
+    line-height: 1.6;
+}
+
+.institution {
+    font-size: 16px;
+    color: #777;
+}
+
+/* Optional Divider Styling */
+.job, .education-item {
+    border-left: 3px solid #065ccc;
+    padding-left: 10px

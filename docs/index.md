@@ -6,19 +6,62 @@ Welcome to my personal website!
 I'm a **Data Scientist** with a passion for **Artificial Intelligence** and **Machine Learning**. I enjoy building intelligent systems and using data to solve complex problems.
 
 ## 🛠️ Skills
+<div class="skills-section">
+    <div class="skill">
+        <span class="skill-name"><i class="fas fa-code"></i> Python</span>
+        <div class="progress-bar" style="--progress-width: 90%;">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <div class="skill">
+        <span class="skill-name"><i class="fas fa-server"></i> Flask</span>
+        <div class="progress-bar" style="--progress-width: 80%;">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <div class="skill">
+        <span class="skill-name"><i class="fas fa-brain"></i> PyTorch</span>
+        <div class="progress-bar" style="--progress-width: 60%;">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <div class="skill">
+        <span class="skill-name"><i class="fas fa-chart-bar"></i> Quantitative Research</span>
+        <div class="progress-bar" style="--progress-width: 90%;">
+            <div class="progress"></div>
+        </div>
+    </div>
+    <div class="skill">
+        <span class="skill-name"><i class="fas fa-cloud"></i> AWS</span>
+        <div class="progress-bar" style="--progress-width: 60%;">
+            <div class="progress"></div>
+        </div>
+    </div>
+</div>
 
-- **Programming Languages:** Python
-- **Libraries & Frameworks:** Flask, PyTorch
-- **Tools & Platforms:** AWS, Git, Docker
+
 
 ## 💼 Experience
+<div class="experience-section">
+    <div class="job">
+        <h4>Forzasys AS: Developer/Data Scientist <span class="job-date">(2023-present)</span></h4>
+        <p class="job-description">Responsible for developing machine learning models, building APIs with Flask, and managing cloud-based data pipelines.</p>
+    </div>
+    <div class="job">
+        <h4>Simula Research Lab: Research Scientist <span class="job-date">(2018 - 2023)</span></h4>
+        <p class="job-description">Development of AI Avatar system for training of police officers in VR.</p>
+    </div>
+</div>
 
-- **Forzasys AS**: Developer/Data Scientist (2023-present)
-- **Simula Research Lab**: Research Scientist (2018 - 2023)
 
 ## 🎓 Education
-
-- **PhD** in Computer Science, **TU Berlin**
+<div class="education-section">
+    <div class="education-item">
+        <h4>PhD in Computer Science</h4>
+        <p class="institution">TU Berlin</p>
+        <p class="thesis-title">Thesis: "Impact of Delay on Cloud Gaming QoE"</p>
+    </div>
+</div>
 
 ## 🏆 Featured Projects
 
