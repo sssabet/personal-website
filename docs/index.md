@@ -5,40 +5,42 @@
 Welcome to my personal website!  
 I'm a **Data Scientist** with a passion for **Artificial Intelligence** and **Machine Learning**. I enjoy building intelligent systems and using data to solve complex problems.
 
+
 ## 🛠️ Skills
-<div class="skills-section">
-    <div class="skill">
-        <span class="skill-name"><i class="fas fa-code"></i> Python</span>
-        <div class="progress-bar" style="--progress-width: 90%;">
-            <div class="progress"></div>
+<div class="education-item">
+    <div class="skills-section">
+        <div class="skill">
+            <span class="skill-name"><i class="fas fa-code"></i> Python</span>
+            <div class="progress-bar" style="--progress-width: 90%;">
+                <div class="progress"></div>
+            </div>
         </div>
-    </div>
-    <div class="skill">
-        <span class="skill-name"><i class="fas fa-server"></i> Flask</span>
-        <div class="progress-bar" style="--progress-width: 80%;">
-            <div class="progress"></div>
+        <div class="skill">
+            <span class="skill-name"><i class="fas fa-server"></i> Flask</span>
+            <div class="progress-bar" style="--progress-width: 80%;">
+                <div class="progress"></div>
+            </div>
         </div>
-    </div>
-    <div class="skill">
-        <span class="skill-name"><i class="fas fa-brain"></i> PyTorch</span>
-        <div class="progress-bar" style="--progress-width: 60%;">
-            <div class="progress"></div>
+        <div class="skill">
+            <span class="skill-name"><i class="fas fa-brain"></i> PyTorch</span>
+            <div class="progress-bar" style="--progress-width: 60%;">
+                <div class="progress"></div>
+            </div>
         </div>
-    </div>
-    <div class="skill">
-        <span class="skill-name"><i class="fas fa-chart-bar"></i> Quantitative Research</span>
-        <div class="progress-bar" style="--progress-width: 90%;">
-            <div class="progress"></div>
+        <div class="skill">
+            <span class="skill-name"><i class="fas fa-chart-bar"></i> Quantitative Research</span>
+            <div class="progress-bar" style="--progress-width: 90%;">
+                <div class="progress"></div>
+            </div>
         </div>
-    </div>
-    <div class="skill">
-        <span class="skill-name"><i class="fas fa-cloud"></i> AWS</span>
-        <div class="progress-bar" style="--progress-width: 60%;">
-            <div class="progress"></div>
+        <div class="skill">
+            <span class="skill-name"><i class="fas fa-cloud"></i> AWS</span>
+            <div class="progress-bar" style="--progress-width: 60%;">
+                <div class="progress"></div>
+            </div>
         </div>
     </div>
 </div>
-
 
 
 ## 💼 Experience
@@ -65,20 +67,29 @@ I'm a **Data Scientist** with a passion for **Artificial Intelligence** and **Ma
 
 ## 🏆 Featured Projects
 
-Explore my work on the [Projects](projects/index.md) page.
 
-## 🚀 Latest Projects
-
-Here are some of my recent projects:
-
-- [AI Soccer Video Cropping](projects/2024-09-30-smart-crop-soccer.md)  
-   A smart cropping tool that automatically detects the key areas in soccer videos.
-   
-- [AI Soccer Summarization](projects/2024-09-30-smart-crop-soccer.md)  
-   Automatic match video and text summarization using Machine Learning.
-   
-- [AI Virtual Avatar](projects/2024-09-30-smart-crop-soccer.md)  
-   Creating a virtual avatar using Language Models and Unity game engine.
-   
-- [Modeling Users' Gaming Experience](projects/2024-09-30-smart-crop-soccer.md)  
-   Understanding user engagement in games through data modeling and Machine Learning.
+<table class="hover-table">
+  <tr>
+    <td>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">
+            <img src='/projects/assets/soccer-cropping-overview.png' alt="AI Soccer Video Cropping">
+        </a>
+        <p><strong>AI Soccer Video Cropping</strong></p>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>
+    </td>
+    <td>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">
+            <img src='/projects/assets/soccer-cropping-overview.png' alt="How to Export a Video">
+        </a>
+            <p><strong>AI Soccer Summarization</strong></p>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>
+    </td>
+    <td>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">
+            <img src='/projects/assets/soccer-cropping-overview.png' alt="AI Virtual Avatar">
+        </a>
+        <p><strong>AI Virtual Avatar</strong></p>
+        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>   
+    </td>
+  </tr>
+</table>
