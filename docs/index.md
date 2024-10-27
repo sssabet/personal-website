@@ -2,8 +2,8 @@
 
 <img src="assets/profile.jpeg" alt="Profile Picture" width="200" align="right">
 
-Welcome to my personal website!  
-I'm a **Data Scientist** with a passion for **Artificial Intelligence** and **Machine Learning**. I enjoy building intelligent systems and using data to solve complex problems.
+I'm a  **Python Backend Developer** and **Data Scientist** with a passion for **Artificial Intelligence** and **Machine Learning**.
+I enjoy building intelligent systems and using data to solve complex problems.
 
 
 ## 🛠️ Skills
@@ -59,15 +59,14 @@ I'm a **Data Scientist** with a passion for **Artificial Intelligence** and **Ma
 ## 🎓 Education
 <div class="education-section">
     <div class="education-item">
-        <h4>PhD in Computer Science</h4>
+        <h4>PhD in Computer Science<span class="job-date">(2018-2021)</span></h4>
         <p class="institution">TU Berlin</p>
         <p class="thesis-title">Thesis: "Impact of Delay on Cloud Gaming QoE"</p>
     </div>
 </div>
 
+
 ## 🏆 Featured Projects
-
-
 <table class="hover-table">
   <tr>
     <td>
