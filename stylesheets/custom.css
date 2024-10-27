@@ -193,3 +193,41 @@ h1, h2 {
 .job, .education-item {
     border-left: 3px solid #065ccc;
     padding-left: 10px
+}
+
+.hover-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 15px; /* Adds space between the blocks */
+}
+
+.hover-table td {
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.3s ease;
+    background-color: #f9f9f9; /* Initial background color for blocks */
+    border-radius: 10px; /* Rounded corners for blocks */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Slight shadow for a raised effect */
+}
+
+.hover-table td:hover {
+    background-color: #e0e0e0; /* Color shade when hovering over the block */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Increase shadow on hover */
+}
+
+.hover-table td img {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.hover-table td:hover img {
+    transform: scale(1.05); /* Slight zoom effect on hover */
+}
+
+.section-background {
+    background-color: #f7f7f7; /* Light gray background */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
