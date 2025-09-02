@@ -70,25 +70,25 @@ I enjoy building intelligent systems and using data to solve complex problems.
 <table class="hover-table">
   <tr>
     <td>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">
+        <a href="projects/2025-01-27-hitai-launch/">
+            <img src='/projects/assets/hitai_thumbnail.jpg' alt="HITAI Combat Sports AI Platform">
+        </a>
+        <p><strong>HITAI: Combat Sports AI</strong></p>
+        <a href="projects/2025-01-27-hitai-launch/">Learn More</a>
+    </td>
+    <td>
+        <a href="projects/2025-01-27-vr-soccer-xr-ai/">
+            <img src='/projects/assets/vr_soccer_thumbnail.jpg' alt="VR Soccer XR + AI Platform">
+        </a>
+        <p><strong>VR Soccer XR + AI</strong></p>
+        <a href="projects/2025-01-27-vr-soccer-xr-ai/">Learn More</a>
+    </td>
+    <td>
+        <a href="projects/2024-09-30-smart-crop-soccer/">
             <img src='/projects/assets/soccer-cropping-overview.png' alt="AI Soccer Video Cropping">
         </a>
         <p><strong>AI Soccer Video Cropping</strong></p>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>
-    </td>
-    <td>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">
-            <img src='/projects/assets/soccer-cropping-overview.png' alt="How to Export a Video">
-        </a>
-            <p><strong>AI Soccer Summarization</strong></p>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>
-    </td>
-    <td>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">
-            <img src='/projects/assets/soccer-cropping-overview.png' alt="AI Virtual Avatar">
-        </a>
-        <p><strong>AI Virtual Avatar</strong></p>
-        <a href="projects/2024-09-30-smart-crop-soccer.md">Learn More</a>   
+        <a href="projects/2024-09-30-smart-crop-soccer/">Learn More</a>
     </td>
   </tr>
 </table>
