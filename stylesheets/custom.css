@@ -225,6 +225,38 @@ h1, h2 {
     transform: scale(1.05); /* Slight zoom effect on hover */
 }
 
+/* Featured projects on home: equal column width + uniform thumbnail size */
+.hover-table.featured-projects {
+    table-layout: fixed;
+}
+
+.hover-table.featured-projects td {
+    width: 33.33%;
+    vertical-align: top;
+}
+
+.hover-table.featured-projects td > a:first-of-type {
+    display: block;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    border-radius: 8px;
+    line-height: 0;
+    background-color: #eee;
+}
+
+.hover-table.featured-projects td img {
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+}
+
+.hover-table.featured-projects td:hover img {
+    transform: scale(1.05);
+}
+
 .section-background {
     background-color: #f7f7f7; /* Light gray background */
     padding: 20px;
