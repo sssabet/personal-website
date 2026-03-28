@@ -13,6 +13,7 @@ nav:
     - Skills: skills.md
     - Projects:
         - List of all projects: projects/index.md
+        - Krifa RAG Norwegian Law: projects/2026-03-28-krifa-rag-norwegian-law.md
         - HITAI Launch: projects/2025-01-27-hitai-launch.md
         - VR Soccer XR + AI: projects/2025-01-27-vr-soccer-xr-ai.md
         - Smart Crop Soccer: projects/2024-09-30-smart-crop-soccer.md

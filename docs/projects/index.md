@@ -4,6 +4,9 @@ Here you can find information about my various projects and research work.
 
 ## Recent Projects
 
+### [Krifa RAG: Norwegian Legal Text Retrieval Chatbot](2026-03-28-krifa-rag-norwegian-law.md)
+**March 2026** - Production RAG system for Norwegian labor law (Arbeidsmiljøloven) built for Krifa, one of Norway's largest unions. Features legal-aware chunking, FAISS retrieval, lawyer-validated gold dataset, and deployed as an embeddable chat widget.
+
 ### [HITAI: AI-Powered Combat Sports Intelligence Platform](2025-01-27-hitai-launch.md)
 **January 2025** - As Co-founder & CTO, I'm excited to announce the launch of HITAI, the first all-in-one combat sports analytics platform. Our AI-powered solution turns raw fight footage into real-time insights using only video and computer vision - no sensors or wearables required.
 

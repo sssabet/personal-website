@@ -105,3 +105,4 @@ This project demonstrates the potential of combining cutting-edge AI technologie
 ---
 
 *This project showcases the exciting possibilities at the intersection of AI, computer vision, and extended reality. The foundation is set for a truly immersive sports viewing experience that will revolutionize fan engagement.*
+
